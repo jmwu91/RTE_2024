@@ -6,7 +6,7 @@
       {
         "id": "bcab3d6e40108ca4",
         "type": "tabs",
-        "dimension": 66.9172932330827,
+        "dimension": 47.793103448275865,
         "children": [
           {
             "id": "41614fa91aecb247",
@@ -25,31 +25,28 @@
       {
         "id": "5b27a5cabfe02bb4",
         "type": "tabs",
-        "dimension": 33.08270676691729,
+        "dimension": 52.206896551724135,
         "children": [
           {
             "id": "ae36c06227df3eec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "捷運系統月台人群分布研究.md",
-                "mode": "source",
-                "source": false
+                "file": "paper/jong2011.pdf"
               }
             }
           },
           {
-            "id": "8d8087a7ef06e0f4",
+            "id": "fdd26a76345b3c8c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "paper/1-s2.0-S0968090X07000927-main.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "95c036e01d73d404",
@@ -115,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "捷運系統月台人群分布研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "捷運系統月台人群分布研究.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,17 +150,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "捷運系統月台人群分布研究.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "93268d8b7c74dcf2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,27 +175,28 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae36c06227df3eec",
+  "active": "fdd26a76345b3c8c",
   "lastOpenFiles": [
+    "簡報大綱.md",
+    "paper/jong2011.pdf",
+    "捷運系統月台人群分布研究.md",
+    "paper/1-s2.0-S0968090X07000927-main.pdf",
     "proposal.md",
     "Pasted image 20241010153412.png",
-    "paper/1-s2.0-S0968090X07000927-main.pdf",
-    "捷運系統月台人群分布研究.md",
     "未命名.md",
     "期末報告 討論.md",
     "北京文獻.md",
     "paper/1-s2.0-S0965856414000469-main.pdf",
     "paper/1-s2.0-S0378437117311251-main.pdf",
     "paper/25852900.pdf",
-    "paper/jong2011.pdf",
     "Social equity-based timetabling and ticket pricing for high-speed railways.md",
     "paper/Social equity-based timetabling and ticket pricing for high-speed railways.pdf",
     "The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.md",
     "Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.md",
-    "簡報大綱.md",
     "paper/The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.pdf",
     "paper/Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.pdf",
     "paper/1-s2.0-S0967070X2100370X-main.pdf",
