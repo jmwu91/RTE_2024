@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "cbcbebf016647d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcab3d6e40108ca4",
+        "type": "tabs",
+        "dimension": 66.9172932330827,
+        "children": [
+          {
+            "id": "41614fa91aecb247",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5b27a5cabfe02bb4",
+        "type": "tabs",
+        "dimension": 33.08270676691729,
+        "children": [
+          {
+            "id": "ae36c06227df3eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "捷運系統月台人群分布研究.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d8087a7ef06e0f4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "paper/1-s2.0-S0968090X07000927-main.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de67bc8b524e971b",
+    "type": "split",
+    "children": [
+      {
+        "id": "72905b78f2cb76a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "041d5eef612e9e57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23da75c85bace6d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a7b38d2ac554287",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 385.5
+  },
+  "right": {
+    "id": "95c036e01d73d404",
+    "type": "split",
+    "children": [
+      {
+        "id": "b602a3fd5ee4dab1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa4d84a2d5c31bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "捷運系統月台人群分布研究.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32648616a6c9819b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "捷運系統月台人群分布研究.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30ca485e80cb6d6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dbf10d92af65ec5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "捷運系統月台人群分布研究.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "ae36c06227df3eec",
+  "lastOpenFiles": [
+    "proposal.md",
+    "Pasted image 20241010153412.png",
+    "paper/1-s2.0-S0968090X07000927-main.pdf",
+    "捷運系統月台人群分布研究.md",
+    "未命名.md",
+    "期末報告 討論.md",
+    "北京文獻.md",
+    "paper/1-s2.0-S0965856414000469-main.pdf",
+    "paper/1-s2.0-S0378437117311251-main.pdf",
+    "paper/25852900.pdf",
+    "paper/jong2011.pdf",
+    "Social equity-based timetabling and ticket pricing for high-speed railways.md",
+    "paper/Social equity-based timetabling and ticket pricing for high-speed railways.pdf",
+    "The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.md",
+    "Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.md",
+    "簡報大綱.md",
+    "paper/The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.pdf",
+    "paper/Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.pdf",
+    "paper/1-s2.0-S0967070X2100370X-main.pdf",
+    "paper/1-s2.0-S096669231500071X-main.pdf",
+    "Welcome.md"
+  ]
+}
