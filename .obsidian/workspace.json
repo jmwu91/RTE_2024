@@ -4,49 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bcab3d6e40108ca4",
+        "id": "5b27a5cabfe02bb4",
         "type": "tabs",
-        "dimension": 47.793103448275865,
         "children": [
           {
-            "id": "41614fa91aecb247",
+            "id": "fdd26a76345b3c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proposal.md",
+                "file": "文獻筆記/Social equity-based timetabling and ticket pricing for high-speed railways.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "5b27a5cabfe02bb4",
-        "type": "tabs",
-        "dimension": 52.206896551724135,
-        "children": [
-          {
-            "id": "ae36c06227df3eec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "paper/jong2011.pdf"
-              }
-            }
-          },
-          {
-            "id": "fdd26a76345b3c8c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "95c036e01d73d404",
@@ -113,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文獻筆記/Social equity-based timetabling and ticket pricing for high-speed railways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文獻筆記/Social equity-based timetabling and ticket pricing for high-speed railways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文獻筆記/Social equity-based timetabling and ticket pricing for high-speed railways.md"
+              }
             }
           },
           {
@@ -181,6 +157,19 @@
   },
   "active": "fdd26a76345b3c8c",
   "lastOpenFiles": [
+    "文獻筆記/The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.md",
+    "文獻筆記/Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.md",
+    "文獻筆記/捷運系統月台人群分布研究.md",
+    "研究進度/proposal/proposal.md",
+    "研究進度/proposal/Pasted image 20241010153412.png",
+    "研究進度/proposal",
+    "討論的東西/期末報告 討論.md",
+    "討論的東西",
+    "研究進度",
+    "文獻筆記/Social equity-based timetabling and ticket pricing for high-speed railways.md",
+    "annotation/北京文獻.md",
+    "annotation",
+    "文獻筆記/未命名.md",
     "簡報大綱.md",
     "paper/jong2011.pdf",
     "捷運系統月台人群分布研究.md",
@@ -197,10 +186,6 @@
     "paper/Social equity-based timetabling and ticket pricing for high-speed railways.pdf",
     "The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.md",
     "Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.md",
-    "paper/The impacts of high-speed rail extensions on accessibility and spatial equity changes in South Korea from 2004 to 2018.pdf",
-    "paper/Efficiencies of the urban railway lines incorporating financial performance and in-vehicle congestion in the Tokyo Metropolitan Area.pdf",
-    "paper/1-s2.0-S0967070X2100370X-main.pdf",
-    "paper/1-s2.0-S096669231500071X-main.pdf",
     "Welcome.md"
   ]
 }
